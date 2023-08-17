@@ -8,10 +8,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinsuc28@gmail.com)](mailto:jinsuc28@gmail.com)
   <a href="https://jinsuc.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FF6C00?style=flat-square&logo=TV Time&logoColor=white&link=https://jinsuc.tistory.com/"/></a>
 
-## My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsuc28&theme=defalut&show_icons=true)
-
-
 ## Education
 |Title| Date | Contents |
 |---|-------|--------:|
@@ -21,6 +17,8 @@
 ## Project
 |Title| Date | Contents |
 |---|-------|--------:|
+|OTTO Multi-Objective Recommender System 캐글 대회| 2022.12 ~ 2023.01 (2개월)| Private 기준 상위 20% (2587개팀 중 497위) |  
+|LG 유플러스 아이들나라 콘텐츠 개인화 추천 대회| 2022.11 ~ 2022.12 (4주)| Public 기준 상위 10% (기준 216개팀 중 21위)|  
 |한의 플랫폼 메디스트림 도서 추천 시스템 개발| 2022.09 ~ 2022.10 (2개월)| 도서 개인화 추천 및 연관 추천 시스템 개발|  
 |자율주행 센서의 안테나 성능 예측 AI 경진대회| 2022.08 ~ 2022.08 (약 1개월)| Private 기준 상위 6%(975 팀중 54위) |
 |NLU 문장 유사도 계산 모델 구축| 2022.03~2022.03 (2주간)| NLP Semantic Textual Similarity 모델 구축|
